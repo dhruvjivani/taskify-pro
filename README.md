@@ -39,16 +39,16 @@
 ## 📸 Screenshots
 
 ### 1. Task List with title/description fields
-![Task List](taskify-pro/screenshots/Screenshot_20250702_205113.png)
+![Task List](Screenshots/Screenshot_20250702_205113.png)
 
 ### 2. Task added with card box view
-![Settings Screen](screenshots/Screenshot_20250702_205143.png)
+![Settings Screen](Screenshots/Screenshot_20250702_205143.png)
 
 ### 3. Settings Screen with Theme Toggle in light theme
-![RecyclerView](screenshots/Screenshot_20250702_205207.png)
+![RecyclerView](Screenshots/Screenshot_20250702_205207.png)
 
 ### 4. Settings Screen with Theme Toggle in Dark theme
-![Task Card](screenshots/Screenshot_20250702_205222.png)
+![Task Card](Screenshots/Screenshot_20250702_205222.png)
 
 ---
 
