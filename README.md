@@ -39,7 +39,7 @@
 ## 📸 Screenshots
 
 ### 1. Task List with title/description fields
-![Task List](screenshots/Screenshot_20250702_205113.png)
+![Task List](taskify-pro/screenshots/Screenshot_20250702_205113.png)
 
 ### 2. Task added with card box view
 ![Settings Screen](screenshots/Screenshot_20250702_205143.png)
