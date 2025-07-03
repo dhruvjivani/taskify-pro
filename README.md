@@ -28,27 +28,38 @@
 
 ### 6.2 Custom Adapter
 - Custom `TaskAdapter` displays:
-    - Task title
-    - Description
-    - Completion checkbox
-    - Delete button
+  - Task title
+  - Description
+  - Completion checkbox
+  - Delete button
 - Efficient ViewHolder pattern and click listeners.
 
 ---
 
 ## 📸 Screenshots
 
-### 1. Task List with title/description fields
-![Task List](Screenshots/Screenshot_20250702_205113.png)
-
-### 2. Task added with card box view
-![Settings Screen](Screenshots/Screenshot_20250702_205143.png)
-
-### 3. Settings Screen with Theme Toggle in light theme
-![RecyclerView](Screenshots/Screenshot_20250702_205207.png)
-
-### 4. Settings Screen with Theme Toggle in Dark theme
-![Task Card](Screenshots/Screenshot_20250702_205222.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/Screenshot_20250702_205113.png" width="200"/><br/>
+      <b>Task List</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/Screenshot_20250702_205143.png" width="200"/><br/>
+      <b>Task Added View</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/Screenshot_20250702_205207.png" width="200"/><br/>
+      <b>Settings - Light Theme</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/Screenshot_20250702_205222.png" width="200"/><br/>
+      <b>Settings - Dark Theme</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,8 +76,6 @@
 ## 📂 GitHub Repository
 
 🔗 **GitHub Link**: [https://github.com/dhruvjivani/taskify-pro](https://github.com/dhruvjivani/taskify-pro)
-
-_(Replace with your actual repo URL before submission.)_
 
 ---
 
